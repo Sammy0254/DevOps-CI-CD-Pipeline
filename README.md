@@ -65,3 +65,5 @@ To set up Jenkins with necessary plugins for this pipeline, follow the steps bel
            stage('Deploy to Kubernetes') { steps { sh "kubectl apply -f deployment.yaml" } }
        }
    }
+
+   To Monitor, use Jenkins
