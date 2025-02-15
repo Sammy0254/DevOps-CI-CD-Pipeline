@@ -1,5 +1,3 @@
-#!/bin/bash
-
 # Project Documentation: Kubernetes Jenkins CI/CD Pipeline Setup
 
 ## Overview
