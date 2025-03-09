@@ -1,4 +1,4 @@
-## Steps to create a private Git repository, generate a personal access token, connect to the repository, and push code to it:
+## Steps to create private Git repository, generate a personal access token, connect to the repository, and push code to it:
 
 1. **Create a Private Git Repository**:
    - Go to your preferred Git hosting platform (e.g., GitHub, GitLab, Bitbucket).
