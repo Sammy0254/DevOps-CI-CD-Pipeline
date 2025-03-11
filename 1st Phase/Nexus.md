@@ -2,7 +2,6 @@
 
 ```bash
 #!/bin/bash
-
 # Update package manager repositories
 sudo apt-get update
 
