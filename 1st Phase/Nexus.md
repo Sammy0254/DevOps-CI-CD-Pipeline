@@ -5,7 +5,7 @@
 # Update package manager repositories
 sudo apt-get update
 
-# Install necessary dependencies
+# Install dependencies
 sudo apt-get install -y ca-certificates curl
 
 # Create directory for Docker GPG key
