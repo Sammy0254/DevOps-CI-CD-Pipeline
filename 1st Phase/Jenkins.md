@@ -1,6 +1,4 @@
 ## Installing Jenkins on Ubuntu
-
-
 ```bash
 #!/bin/bash
 
