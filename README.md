@@ -1,4 +1,4 @@
-# Project Documentation: Kubernetes Jenkins CI/CD Pipeline Setup
+# Project Docume: Kubernetes Jenkins CI/CD Pipeline Setup
 
 ## Overview
 This project aims to set up a **CI/CD pipeline** using **Jenkins** integrated with a **Kubernetes** cluster. The primary goal is to automate the building, testing, and deployment of containerized applications in a scalable, efficient, and reliable environment.
