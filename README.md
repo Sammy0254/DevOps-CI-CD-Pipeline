@@ -11,7 +11,7 @@ This project aims to set up a **CI/CD pipeline** using **Jenkins** integrated wi
 
 ---
 
-## Phase 1: Install Jenkins and Kubernetes
+## Phase 1: Install Jenkins & Kubernetes
 
 ### Install OpenJDK 17 JRE Headless
 ```bash
